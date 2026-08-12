@@ -1,0 +1,6 @@
+{
+  "name": "Chicken Town",
+  "description": "Mobile-first fast-food chicken web app for Chicken Town in Freetown, Sierra Leone with WhatsApp ordering, multi-branch selector, catering, and owner analytics dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
